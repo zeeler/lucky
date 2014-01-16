@@ -1,3 +1,3 @@
 #!/bin/bash
-java -cp lottery.jar com.litaook.lottery.Lucky
+java -cp .:bin/ com.litaook.lottery.Lucky
 
