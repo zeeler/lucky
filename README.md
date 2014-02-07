@@ -16,5 +16,6 @@ lucky
 <p>新增加了图片批量放缩工具</p>
 
 运行:
-	$ ./resize.sh
+
+    $ ./resize.sh
 	
