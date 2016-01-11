@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<project name="MyProject" basedir="." default="jar">  
+    <!-- 设置全局变量 -->  
+    <property name="src" value="src" />  
+    <property name="classes" value="build/classes" />
+    <property name="bin" value="bin" />
+    <property name="dist" value="dist" />  
+    <property name="app.name" value="lucky" />  
+    <property name="app.version" value="1.0" />  
+    <property name="classes.encode" value="UTF-8" />  
+    <property name="lib" value="lib" />  
+  
+    <path id="classpath">  
+        <fileset dir="${lib}">  
+            <include name="**/*.jar" />  
+        </fileset>
+        <fileset dir="${bin}">
+            <include name="**/*.class" />
+        </fileset>
+    </path>  
+    <target name="init">  
+        <!-- Create the time stamp -->  
+        <tstamp />  
+    </target>  
+  
+    <!-- 编译源文件 -->  
+    <target name="build" depends="init">  
+        <echo message="Start building ....." />  
+        <delete dir="${classes}" />  
+        <mkdir dir="${classes}" />
+        <mkdir dir="${bin}" /> 
+        <javac deprecation="on" includeantruntime="true" debug="on" encoding="${classes.encode}" srcdir="${src}" destdir="${classes}" classpathref="classpath" />  
+        <copy todir="${classes}">  
+            <!-- copy config files -->  
+            <fileset dir="${src}" includes="**/*.properties,**/*.xml,**/*.bsh,**/*.logic, **/*.hbm" />  
+        </copy>
+        <copy todir="${bin}">  
+            <!-- copy config files -->  
+            <fileset dir="${classes}" includes="**/*.properties,**/*.xml,**/*.yml,**/*.class" />  
+        </copy> 
+    </target>  
+  
+    <!-- 导出jar文件 -->  
+    <target name="jar" depends="build">  
+        <delete dir="${dist}" />  
+        <!-- Create the distribution directory -->  
+        <mkdir dir="${dist}" />  
+        <!-- Put everything in ${classes} into the MyProject-${DSTAMP}.jar file -->  
+        <jar jarfile="${dist}/${app.name}.jar" basedir="${classes}" />  
+    </target>
+
+    <target name="run" depends="build">
+        <echo message="Run programe......"/>
+        <java classname="com.litaook.lottery.Lucky" fork="true" failonerror="true" classpathref="classpath" >
+        </java>
+    </target>
+</project>  

@@ -1,0 +1,784 @@
+2016.01.11 at 17:56:28 CST DEBUG com.litaook.lottery.Lucky 433 main - new Lucky() - 初始化 - start
+2016.01.11 at 17:56:28 CST DEBUG com.litaook.lottery.Lucky 81 <init> - 构造函数 - start
+2016.01.11 at 17:56:28 CST DEBUG com.litaook.lottery.Lucky 107 checkScreenSize - 检查屏幕尺寸 - start
+2016.01.11 at 17:56:28 CST DEBUG com.litaook.lottery.Lucky 112 checkScreenSize - 屏幕分辨率为 : 1440x900
+2016.01.11 at 17:56:28 CST DEBUG com.litaook.lottery.Lucky 114 checkScreenSize - end
+2016.01.11 at 17:56:28 CST DEBUG com.litaook.lottery.Lucky 121 setPanelsSize - 设置各主要面板 - start
+2016.01.11 at 17:56:28 CST DEBUG com.litaook.lottery.Lucky 149 setPanelsSize - end
+2016.01.11 at 17:56:28 CST DEBUG com.litaook.lottery.Lucky 249 addWidgets - 创建插件 - start
+2016.01.11 at 17:56:28 CST DEBUG com.litaook.lottery.Lucky 178 readImagesToArrays - 读取图片并存入数组 - start
+2016.01.11 at 17:56:28 CST DEBUG com.litaook.lottery.Lucky 182 readImagesToArrays - 获取图片路径 : /Users/litao/Documents/litaook.com/source_code/lucky/images/
+2016.01.11 at 17:56:28 CST DEBUG com.litaook.lottery.Lucky 158 imageDirExists - 检查images目录是否存在 - start
+2016.01.11 at 17:56:28 CST DEBUG com.litaook.lottery.Lucky 164 imageDirExists - images目录正常!
+2016.01.11 at 17:56:28 CST DEBUG com.litaook.lottery.Lucky 168 imageDirExists - end
+2016.01.11 at 17:56:28 CST DEBUG com.litaook.lottery.Lucky 192 readImagesToArrays - 读取图片...
+2016.01.11 at 17:56:28 CST DEBUG com.litaook.lottery.Lucky 194 readImagesToArrays - 文件总数量 : 3
+2016.01.11 at 17:56:28 CST DEBUG com.litaook.lottery.Lucky 195 readImagesToArrays - 开始循环读取图片...
+2016.01.11 at 17:56:28 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 17:56:28 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 17:56:28 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 17:56:29 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 17:56:29 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 17:56:29 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 17:56:29 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 17:56:29 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 17:56:29 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 17:56:29 CST DEBUG com.litaook.lottery.Lucky 239 readImagesToArrays - 有效图片数量 : 3
+2016.01.11 at 17:56:29 CST DEBUG com.litaook.lottery.Lucky 240 readImagesToArrays - end
+2016.01.11 at 17:56:29 CST DEBUG com.litaook.lottery.Lucky 282 addWidgets - 转换成ImageIcon对象...
+2016.01.11 at 17:56:29 CST DEBUG com.litaook.lottery.Lucky 306 addWidgets - 各显示Panel设置完毕
+2016.01.11 at 17:56:29 CST DEBUG com.litaook.lottery.Lucky 310 addWidgets - 按键添加监听器完毕
+2016.01.11 at 17:56:29 CST DEBUG com.litaook.lottery.Lucky 312 addWidgets - end
+2016.01.11 at 17:56:29 CST DEBUG com.litaook.lottery.Lucky 100 <init> - end
+2016.01.11 at 17:56:29 CST DEBUG com.litaook.lottery.Lucky 435 main - Lucky() - end
+2016.01.11 at 17:56:29 CST DEBUG com.litaook.lottery.Lucky 441 main - setLookAndFeel() - 设置外观 - start & end
+2016.01.11 at 17:56:29 CST DEBUG com.litaook.lottery.Lucky 444 main - Frame添加Panel
+2016.01.11 at 17:56:29 CST DEBUG com.litaook.lottery.Lucky 453 main - Frame.pack() - start
+2016.01.11 at 17:56:29 CST DEBUG com.litaook.lottery.Lucky 455 main - Frame.pack() - end
+2016.01.11 at 17:56:34 CST DEBUG com.litaook.lottery.Lucky 331 actionPerformed - 事件发生，执行处理 - start
+2016.01.11 at 17:56:34 CST DEBUG com.litaook.lottery.Lucky 392 actionPerformed - end
+2016.01.11 at 17:56:34 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:34 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 2
+2016.01.11 at 17:56:34 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:34 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 1
+2016.01.11 at 17:56:34 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:34 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 17:56:34 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:34 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 17:56:34 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:34 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 1
+2016.01.11 at 17:56:34 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:34 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 2
+2016.01.11 at 17:56:34 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:34 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 1
+2016.01.11 at 17:56:34 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:34 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 2
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 1
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 2
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 2
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 1
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 1
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 1
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 331 actionPerformed - 事件发生，执行处理 - start
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 399 moveLuckyImage - 移动获奖图片 - start
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 409 moveLuckyImage - 获奖照片转移为 : /Users/litao/Documents/litaook.com/source_code/lucky/winners/冯十.jpg
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.util.CopyFile 32 copy - copy() - 复制文件 - start
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.util.CopyFile 40 copy - 读取文件...
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.util.CopyFile 46 copy - 写新文件...
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.util.CopyFile 49 copy - 写入 36836 bytes.
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.util.CopyFile 61 copy - copy() - end
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 411 moveLuckyImage - 图片复制完毕
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 414 moveLuckyImage - 删除原图片 : /Users/litao/Documents/litaook.com/source_code/lucky/images/冯十.jpg
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 416 moveLuckyImage - end
+2016.01.11 at 17:56:35 CST INFO  com.litaook.lottery.Lucky 342 actionPerformed - 获奖人 : 冯十
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 178 readImagesToArrays - 读取图片并存入数组 - start
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 182 readImagesToArrays - 获取图片路径 : /Users/litao/Documents/litaook.com/source_code/lucky/images/
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 158 imageDirExists - 检查images目录是否存在 - start
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 164 imageDirExists - images目录正常!
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 168 imageDirExists - end
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 192 readImagesToArrays - 读取图片...
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 194 readImagesToArrays - 文件总数量 : 2
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 195 readImagesToArrays - 开始循环读取图片...
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 239 readImagesToArrays - 有效图片数量 : 5
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 240 readImagesToArrays - end
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky 392 actionPerformed - end
+2016.01.11 at 17:56:35 CST DEBUG com.litaook.lottery.Lucky$1 387 run - 新线程启动 ...
+2016.01.11 at 17:56:36 CST DEBUG com.litaook.lottery.Lucky 331 actionPerformed - 事件发生，执行处理 - start
+2016.01.11 at 17:56:36 CST DEBUG com.litaook.lottery.Lucky 392 actionPerformed - end
+2016.01.11 at 17:56:36 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:36 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 17:56:36 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:36 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 2
+2016.01.11 at 17:56:36 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:36 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 3
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 4
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 3
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 1
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 2
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 4
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 1
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 4
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 1
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 2
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 4
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 2
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 4
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 4
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 1
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:37 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 2
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 3
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 1
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.Lucky 331 actionPerformed - 事件发生，执行处理 - start
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.Lucky 399 moveLuckyImage - 移动获奖图片 - start
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.Lucky 409 moveLuckyImage - 获奖照片转移为 : /Users/litao/Documents/litaook.com/source_code/lucky/winners/张三.jpg
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.util.CopyFile 32 copy - copy() - 复制文件 - start
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.util.CopyFile 40 copy - 读取文件...
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.util.CopyFile 46 copy - 写新文件...
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.util.CopyFile 49 copy - 写入 30978 bytes.
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.util.CopyFile 61 copy - copy() - end
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.Lucky 411 moveLuckyImage - 图片复制完毕
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.Lucky 414 moveLuckyImage - 删除原图片 : /Users/litao/Documents/litaook.com/source_code/lucky/images/张三.jpg
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.Lucky 416 moveLuckyImage - end
+2016.01.11 at 17:56:38 CST INFO  com.litaook.lottery.Lucky 342 actionPerformed - 获奖人 : 张三
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.Lucky 178 readImagesToArrays - 读取图片并存入数组 - start
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.Lucky 182 readImagesToArrays - 获取图片路径 : /Users/litao/Documents/litaook.com/source_code/lucky/images/
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.Lucky 158 imageDirExists - 检查images目录是否存在 - start
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.Lucky 164 imageDirExists - images目录正常!
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.Lucky 168 imageDirExists - end
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.Lucky 192 readImagesToArrays - 读取图片...
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.Lucky 194 readImagesToArrays - 文件总数量 : 1
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.Lucky 195 readImagesToArrays - 开始循环读取图片...
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.Lucky 239 readImagesToArrays - 有效图片数量 : 6
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.Lucky 240 readImagesToArrays - end
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.Lucky 392 actionPerformed - end
+2016.01.11 at 17:56:38 CST DEBUG com.litaook.lottery.Lucky$1 387 run - 新线程启动 ...
+2016.01.11 at 17:56:41 CST DEBUG com.litaook.lottery.Lucky 331 actionPerformed - 事件发生，执行处理 - start
+2016.01.11 at 17:56:41 CST DEBUG com.litaook.lottery.Lucky 392 actionPerformed - end
+2016.01.11 at 17:56:41 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:41 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 17:56:41 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:41 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 1
+2016.01.11 at 17:56:41 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:41 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 17:56:41 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:41 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 17:56:41 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:41 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 1
+2016.01.11 at 17:56:41 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:41 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 3
+2016.01.11 at 17:56:41 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:41 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 4
+2016.01.11 at 17:56:41 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:41 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 5
+2016.01.11 at 17:56:41 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:41 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 17:56:41 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:41 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 3
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 3
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 1
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 5
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 4
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 4
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 2
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 1
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 5
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 2
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 3
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 331 actionPerformed - 事件发生，执行处理 - start
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 399 moveLuckyImage - 移动获奖图片 - start
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 416 moveLuckyImage - end
+2016.01.11 at 17:56:42 CST INFO  com.litaook.lottery.Lucky 342 actionPerformed - 获奖人 : 张三
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 178 readImagesToArrays - 读取图片并存入数组 - start
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 182 readImagesToArrays - 获取图片路径 : /Users/litao/Documents/litaook.com/source_code/lucky/images/
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 158 imageDirExists - 检查images目录是否存在 - start
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 164 imageDirExists - images目录正常!
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 168 imageDirExists - end
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 192 readImagesToArrays - 读取图片...
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 194 readImagesToArrays - 文件总数量 : 1
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 195 readImagesToArrays - 开始循环读取图片...
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 239 readImagesToArrays - 有效图片数量 : 7
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 240 readImagesToArrays - end
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky 392 actionPerformed - end
+2016.01.11 at 17:56:42 CST DEBUG com.litaook.lottery.Lucky$1 387 run - 新线程启动 ...
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky 331 actionPerformed - 事件发生，执行处理 - start
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky 392 actionPerformed - end
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 1
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 1
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 6
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 6
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 1
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 2
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 6
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 6
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 4
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 6
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 4
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 3
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 5
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 5
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:44 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 3
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 6
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 2
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 1
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 1
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 4
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 1
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky 331 actionPerformed - 事件发生，执行处理 - start
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky 399 moveLuckyImage - 移动获奖图片 - start
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky 416 moveLuckyImage - end
+2016.01.11 at 17:56:45 CST INFO  com.litaook.lottery.Lucky 342 actionPerformed - 获奖人 : 冯十
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky 178 readImagesToArrays - 读取图片并存入数组 - start
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky 182 readImagesToArrays - 获取图片路径 : /Users/litao/Documents/litaook.com/source_code/lucky/images/
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky 158 imageDirExists - 检查images目录是否存在 - start
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky 164 imageDirExists - images目录正常!
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky 168 imageDirExists - end
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky 192 readImagesToArrays - 读取图片...
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky 194 readImagesToArrays - 文件总数量 : 1
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky 195 readImagesToArrays - 开始循环读取图片...
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky$1 387 run - 新线程启动 ...
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky 239 readImagesToArrays - 有效图片数量 : 8
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky 240 readImagesToArrays - end
+2016.01.11 at 17:56:45 CST DEBUG com.litaook.lottery.Lucky 392 actionPerformed - end
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 433 main - new Lucky() - 初始化 - start
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 81 <init> - 构造函数 - start
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 107 checkScreenSize - 检查屏幕尺寸 - start
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 112 checkScreenSize - 屏幕分辨率为 : 1440x900
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 114 checkScreenSize - end
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 121 setPanelsSize - 设置各主要面板 - start
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 149 setPanelsSize - end
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 249 addWidgets - 创建插件 - start
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 178 readImagesToArrays - 读取图片并存入数组 - start
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 182 readImagesToArrays - 获取图片路径 : /Users/litao/Documents/litaook.com/source_code/lucky/images/
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 158 imageDirExists - 检查images目录是否存在 - start
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 164 imageDirExists - images目录正常!
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 168 imageDirExists - end
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 192 readImagesToArrays - 读取图片...
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 194 readImagesToArrays - 文件总数量 : 1
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 195 readImagesToArrays - 开始循环读取图片...
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 239 readImagesToArrays - 有效图片数量 : 1
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 240 readImagesToArrays - end
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 282 addWidgets - 转换成ImageIcon对象...
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 306 addWidgets - 各显示Panel设置完毕
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 310 addWidgets - 按键添加监听器完毕
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 312 addWidgets - end
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 100 <init> - end
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 435 main - Lucky() - end
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 441 main - setLookAndFeel() - 设置外观 - start & end
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 444 main - Frame添加Panel
+2016.01.11 at 18:06:18 CST DEBUG com.litaook.lottery.Lucky 453 main - Frame.pack() - start
+2016.01.11 at 18:06:19 CST DEBUG com.litaook.lottery.Lucky 455 main - Frame.pack() - end
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 433 main - new Lucky() - 初始化 - start
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 81 <init> - 构造函数 - start
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 107 checkScreenSize - 检查屏幕尺寸 - start
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 112 checkScreenSize - 屏幕分辨率为 : 1440x900
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 114 checkScreenSize - end
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 121 setPanelsSize - 设置各主要面板 - start
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 149 setPanelsSize - end
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 249 addWidgets - 创建插件 - start
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 178 readImagesToArrays - 读取图片并存入数组 - start
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 182 readImagesToArrays - 获取图片路径 : /Users/litao/Documents/litaook.com/source_code/lucky/images/
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 158 imageDirExists - 检查images目录是否存在 - start
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 164 imageDirExists - images目录正常!
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 168 imageDirExists - end
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 192 readImagesToArrays - 读取图片...
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 194 readImagesToArrays - 文件总数量 : 1
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 195 readImagesToArrays - 开始循环读取图片...
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 239 readImagesToArrays - 有效图片数量 : 1
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 240 readImagesToArrays - end
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 282 addWidgets - 转换成ImageIcon对象...
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 306 addWidgets - 各显示Panel设置完毕
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 310 addWidgets - 按键添加监听器完毕
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 312 addWidgets - end
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 100 <init> - end
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 435 main - Lucky() - end
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 441 main - setLookAndFeel() - 设置外观 - start & end
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 444 main - Frame添加Panel
+2016.01.11 at 18:06:46 CST DEBUG com.litaook.lottery.Lucky 453 main - Frame.pack() - start
+2016.01.11 at 18:06:47 CST DEBUG com.litaook.lottery.Lucky 455 main - Frame.pack() - end
+2016.01.11 at 18:06:49 CST DEBUG com.litaook.lottery.Lucky 331 actionPerformed - 事件发生，执行处理 - start
+2016.01.11 at 18:06:49 CST DEBUG com.litaook.lottery.Lucky 392 actionPerformed - end
+2016.01.11 at 18:06:49 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:06:49 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 18:06:49 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:06:49 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 18:06:49 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:06:49 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 18:06:49 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:06:49 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 18:06:49 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:06:49 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 18:06:49 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:06:49 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 18:06:49 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:06:49 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 18:06:49 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:06:49 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 18:06:49 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:06:49 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 18:06:49 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:06:49 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 331 actionPerformed - 事件发生，执行处理 - start
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 399 moveLuckyImage - 移动获奖图片 - start
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 409 moveLuckyImage - 获奖照片转移为 : /Users/litao/Documents/litaook.com/source_code/lucky/winners/王五.jpg
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.util.CopyFile 32 copy - copy() - 复制文件 - start
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.util.CopyFile 40 copy - 读取文件...
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.util.CopyFile 46 copy - 写新文件...
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.util.CopyFile 49 copy - 写入 32907 bytes.
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.util.CopyFile 61 copy - copy() - end
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 411 moveLuckyImage - 图片复制完毕
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 414 moveLuckyImage - 删除原图片 : /Users/litao/Documents/litaook.com/source_code/lucky/images/王五.jpg
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 416 moveLuckyImage - end
+2016.01.11 at 18:06:50 CST INFO  com.litaook.lottery.Lucky 342 actionPerformed - 获奖人 : 王五
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 178 readImagesToArrays - 读取图片并存入数组 - start
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 182 readImagesToArrays - 获取图片路径 : /Users/litao/Documents/litaook.com/source_code/lucky/images/
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 158 imageDirExists - 检查images目录是否存在 - start
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 164 imageDirExists - images目录正常!
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 168 imageDirExists - end
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 192 readImagesToArrays - 读取图片...
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 194 readImagesToArrays - 文件总数量 : 0
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 195 readImagesToArrays - 开始循环读取图片...
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 239 readImagesToArrays - 有效图片数量 : 1
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 240 readImagesToArrays - end
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky 392 actionPerformed - end
+2016.01.11 at 18:06:50 CST DEBUG com.litaook.lottery.Lucky$1 387 run - 新线程启动 ...
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 433 main - new Lucky() - 初始化 - start
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 81 <init> - 构造函数 - start
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 107 checkScreenSize - 检查屏幕尺寸 - start
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 112 checkScreenSize - 屏幕分辨率为 : 1440x900
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 114 checkScreenSize - end
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 121 setPanelsSize - 设置各主要面板 - start
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 149 setPanelsSize - end
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 249 addWidgets - 创建插件 - start
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 178 readImagesToArrays - 读取图片并存入数组 - start
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 182 readImagesToArrays - 获取图片路径 : /Users/litao/Documents/litaook.com/source_code/lucky/images/
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 158 imageDirExists - 检查images目录是否存在 - start
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 164 imageDirExists - images目录正常!
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 168 imageDirExists - end
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 192 readImagesToArrays - 读取图片...
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 194 readImagesToArrays - 文件总数量 : 11
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 195 readImagesToArrays - 开始循环读取图片...
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 239 readImagesToArrays - 有效图片数量 : 11
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 240 readImagesToArrays - end
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 282 addWidgets - 转换成ImageIcon对象...
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 306 addWidgets - 各显示Panel设置完毕
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 310 addWidgets - 按键添加监听器完毕
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 312 addWidgets - end
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 100 <init> - end
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 435 main - Lucky() - end
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 441 main - setLookAndFeel() - 设置外观 - start & end
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 444 main - Frame添加Panel
+2016.01.11 at 18:07:26 CST DEBUG com.litaook.lottery.Lucky 453 main - Frame.pack() - start
+2016.01.11 at 18:07:27 CST DEBUG com.litaook.lottery.Lucky 455 main - Frame.pack() - end
+2016.01.11 at 18:07:28 CST DEBUG com.litaook.lottery.Lucky 331 actionPerformed - 事件发生，执行处理 - start
+2016.01.11 at 18:07:28 CST DEBUG com.litaook.lottery.Lucky 392 actionPerformed - end
+2016.01.11 at 18:07:28 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:07:28 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 9
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 7
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 7
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 10
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 7
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 9
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 1
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 8
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 4
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 7
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 5
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 9
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 10
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 4
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 4
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 1
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 9
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:07:29 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 5
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 7
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 1
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 1
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 10
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 9
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 8
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 331 actionPerformed - 事件发生，执行处理 - start
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 399 moveLuckyImage - 移动获奖图片 - start
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 409 moveLuckyImage - 获奖照片转移为 : /Users/litao/Documents/litaook.com/source_code/lucky/winners/李四.jpg
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.util.CopyFile 32 copy - copy() - 复制文件 - start
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.util.CopyFile 40 copy - 读取文件...
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.util.CopyFile 46 copy - 写新文件...
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.util.CopyFile 49 copy - 写入 45166 bytes.
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.util.CopyFile 61 copy - copy() - end
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 411 moveLuckyImage - 图片复制完毕
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 414 moveLuckyImage - 删除原图片 : /Users/litao/Documents/litaook.com/source_code/lucky/images/李四.jpg
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 416 moveLuckyImage - end
+2016.01.11 at 18:07:30 CST INFO  com.litaook.lottery.Lucky 342 actionPerformed - 获奖人 : 李四
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 178 readImagesToArrays - 读取图片并存入数组 - start
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 182 readImagesToArrays - 获取图片路径 : /Users/litao/Documents/litaook.com/source_code/lucky/images/
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 158 imageDirExists - 检查images目录是否存在 - start
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 164 imageDirExists - images目录正常!
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 168 imageDirExists - end
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 192 readImagesToArrays - 读取图片...
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 194 readImagesToArrays - 文件总数量 : 10
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 195 readImagesToArrays - 开始循环读取图片...
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky$1 387 run - 新线程启动 ...
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 239 readImagesToArrays - 有效图片数量 : 21
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 240 readImagesToArrays - end
+2016.01.11 at 18:07:30 CST DEBUG com.litaook.lottery.Lucky 392 actionPerformed - end
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 433 main - new Lucky() - 初始化 - start
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 81 <init> - 构造函数 - start
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 107 checkScreenSize - 检查屏幕尺寸 - start
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 112 checkScreenSize - 屏幕分辨率为 : 1440x900
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 114 checkScreenSize - end
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 121 setPanelsSize - 设置各主要面板 - start
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 149 setPanelsSize - end
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 249 addWidgets - 创建插件 - start
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 178 readImagesToArrays - 读取图片并存入数组 - start
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 182 readImagesToArrays - 获取图片路径 : /Users/litao/Documents/litaook.com/source_code/lucky/images/
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 158 imageDirExists - 检查images目录是否存在 - start
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 164 imageDirExists - images目录正常!
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 168 imageDirExists - end
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 192 readImagesToArrays - 读取图片...
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 194 readImagesToArrays - 文件总数量 : 10
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 195 readImagesToArrays - 开始循环读取图片...
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 239 readImagesToArrays - 有效图片数量 : 10
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 240 readImagesToArrays - end
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 282 addWidgets - 转换成ImageIcon对象...
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 306 addWidgets - 各显示Panel设置完毕
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 310 addWidgets - 按键添加监听器完毕
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 312 addWidgets - end
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 100 <init> - end
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 435 main - Lucky() - end
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 441 main - setLookAndFeel() - 设置外观 - start & end
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 444 main - Frame添加Panel
+2016.01.11 at 18:11:24 CST DEBUG com.litaook.lottery.Lucky 453 main - Frame.pack() - start
+2016.01.11 at 18:11:25 CST DEBUG com.litaook.lottery.Lucky 455 main - Frame.pack() - end
+2016.01.11 at 18:11:27 CST DEBUG com.litaook.lottery.Lucky 331 actionPerformed - 事件发生，执行处理 - start
+2016.01.11 at 18:11:27 CST DEBUG com.litaook.lottery.Lucky 392 actionPerformed - end
+2016.01.11 at 18:11:27 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:11:27 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 2
+2016.01.11 at 18:11:27 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:11:27 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 9
+2016.01.11 at 18:11:27 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:11:27 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 8
+2016.01.11 at 18:11:27 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:11:27 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 9
+2016.01.11 at 18:11:27 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:11:27 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 9
+2016.01.11 at 18:11:27 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:11:27 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 3
+2016.01.11 at 18:11:27 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:11:27 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 7
+2016.01.11 at 18:11:27 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:11:27 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 0
+2016.01.11 at 18:11:27 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:11:27 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 8
+2016.01.11 at 18:11:27 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:11:27 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 9
+2016.01.11 at 18:11:27 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:11:27 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 9
+2016.01.11 at 18:11:27 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:11:27 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 4
+2016.01.11 at 18:11:27 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:11:27 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 4
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 2
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 7
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 3
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 5
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 3
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 4
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 4
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 3
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 321 random - 生成随机数 - start & end
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky$1 363 run - 随机抽取到的图片序号 : 5
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 331 actionPerformed - 事件发生，执行处理 - start
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 399 moveLuckyImage - 移动获奖图片 - start
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 409 moveLuckyImage - 获奖照片转移为 : /Users/litao/Documents/litaook.com/source_code/lucky/winners/5.jpg
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.util.CopyFile 32 copy - copy() - 复制文件 - start
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.util.CopyFile 40 copy - 读取文件...
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.util.CopyFile 46 copy - 写新文件...
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.util.CopyFile 49 copy - 写入 37780 bytes.
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.util.CopyFile 61 copy - copy() - end
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 411 moveLuckyImage - 图片复制完毕
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 414 moveLuckyImage - 删除原图片 : /Users/litao/Documents/litaook.com/source_code/lucky/images/5.jpg
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 416 moveLuckyImage - end
+2016.01.11 at 18:11:28 CST INFO  com.litaook.lottery.Lucky 342 actionPerformed - 获奖人 : 5
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 178 readImagesToArrays - 读取图片并存入数组 - start
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 182 readImagesToArrays - 获取图片路径 : /Users/litao/Documents/litaook.com/source_code/lucky/images/
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 158 imageDirExists - 检查images目录是否存在 - start
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 164 imageDirExists - images目录正常!
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 168 imageDirExists - end
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky$1 387 run - 新线程启动 ...
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 192 readImagesToArrays - 读取图片...
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 194 readImagesToArrays - 文件总数量 : 9
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 195 readImagesToArrays - 开始循环读取图片...
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 228 readImagesToArrays - 转换成ImageIcon对象...
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 233 readImagesToArrays - icon加入imageIcon队列 
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 236 readImagesToArrays - fileName加入imageNames队列
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 239 readImagesToArrays - 有效图片数量 : 19
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 240 readImagesToArrays - end
+2016.01.11 at 18:11:28 CST DEBUG com.litaook.lottery.Lucky 392 actionPerformed - end
